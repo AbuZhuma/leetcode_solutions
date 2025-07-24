@@ -13,9 +13,9 @@
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | XX     |
-| Medium     | XX     |
-| Hard       | XX     |
+| Easy       | 6      |
+| Medium     | 10     |
+| Hard       | 7      |
 
 ---
 
