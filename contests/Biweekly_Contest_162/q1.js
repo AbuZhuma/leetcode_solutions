@@ -16,7 +16,7 @@ var earliestFinishTime = function(landStartTime, landDuration, waterStartTime, w
             const startLandAfterWater = Math.max(endWaterFirst, landStartTime[i]);
             const endLandSecond = startLandAfterWater + landDuration[i];
             minFinishTime = Math.min(minFinishTime, endLandSecond);
-        }
+        }  
     }
 
     return minFinishTime;
